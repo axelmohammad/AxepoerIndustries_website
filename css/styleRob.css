@@ -1,0 +1,177 @@
+#topBar {
+		width: 100%;
+		height: 130px;
+		background-color: rgba(25, 45, 255, 0.8);
+		position: fixed;
+}	
+
+body {
+		background-color: rgba(27, 49, 100, 0.7);
+}
+
+.container {
+		position: relative;
+		bottom: 110px;
+		left: 140px;
+		background-color: rgba(25, 45, 255, 0.8);
+		border: 3px solid black;
+		margin: 10px;
+		padding: 10px 5px;
+		width: 590px;
+		height: 40px;
+}
+
+
+.navBut {
+		color: rgba(255, 255, 255, 0.8);
+		text-decoration: none;
+}
+
+
+#tRobAi {
+		position: absolute;
+		bottom: 26%;
+		right: 110px;
+		border: 4px double black;
+		padding: 2px;
+		border-radius: 6px;
+		background-color: rgba(255, 45, 255, 0.2);
+}
+
+#tRobMedic {
+		position: absolute;
+		right: 10px;
+		bottom: 26%;
+		border: 4px double black;
+		padding: 2px;
+		border-radius: 6px;
+		background-color: rgba(255, 45, 255, 0.2);
+}
+
+#homePG {
+		position: absolute;
+		bottom: 26%;
+		border: 4px double black;
+		padding: 2px;
+		border-radius: 6px;
+		background-color: rgba(255, 45, 255, 0.2);
+}
+
+#robMiliter {
+		position: absolute;
+		bottom: 26%;
+		right: 270px;
+		border: 4px double black;
+		padding: 2px;
+		border-radius: 6px;
+		background-color: rgba(255, 45, 255, 0.2);
+}
+
+#robUAV {
+		position: absolute;
+		bottom: 26%;
+		right: 380px;
+		border: 4px double black;
+		padding: 2px;
+		border-radius: 6px;
+		background-color: rgba(255, 45, 255, 0.2);
+}
+
+#robPelyn {
+		position: absolute;
+		bottom: 26%;
+		right: 435px;
+		border: 4px double black;
+		padding: 2px;
+		border-radius: 6px;
+		background-color: rgba(255, 45, 255, 0.2);
+}
+
+#atlasRob {
+		position: absolute;
+		bottom: 5%;
+		right: 75%;
+		padding: 10px;
+		margin: 5px;
+		background-color: silver;
+		border:5px double black;
+}
+
+#atRob	{
+		width: 300px
+}
+
+#robTitle {
+		text-align: center;
+		color: silver;
+		background-color: black;
+		border: 2px double white;
+}
+
+#bseller {
+		width: 100px;
+}
+
+#imgB {
+		text-align: center;
+}
+
+.larisTag {
+		border: 3px double black;
+		position: absolute;
+		bottom: 400px;
+		right: 83%;
+		background-color: silver;
+}
+
+#rbT {
+		border: 2px solid gold;
+		background-color: white;
+		color: gold;
+}
+
+#pilihRob {
+		position: absolute;
+		bottom: 245px;
+		right: 930px;
+}
+
+#atlsBut {
+		border: 3px solid black;
+		background-color: blue;
+		margin: 3px;
+}
+
+#rbgBut {
+		border: 3px solid black;
+		background-color: blue;
+		margin: 3px;
+}
+
+.innerCbox {
+		text-align: center;
+}
+
+#colorC {
+		position: absolute;
+		bottom: 170px;
+		right: 930px;
+}
+
+#butW1 {
+		background-color: white;
+}
+
+#butW2 {
+		background-color: yellow;
+}
+
+#butW3 {
+		background-color: red;
+}
+
+#formKu {
+		position: absolute;
+		bottom: 90px;
+		right: 870px;
+}

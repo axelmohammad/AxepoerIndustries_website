@@ -1,0 +1,81 @@
+#topBar {
+		width: 100%;
+		height: 130px;
+		background-color: rgba(25, 45, 255, 0.8);
+		position: fixed;
+}	
+
+body {
+		background-color: rgba(27, 49, 100, 0.7);
+}
+
+.leftBut	{
+		color: rgba(255, 255, 255, 0.8);
+		text-decoration: none;
+}
+
+.container {
+		position: relative;
+		bottom: 110px;
+		left: 140px;
+		background-color: rgba(25, 45, 255, 0.8);
+		border: 3px solid black;
+		margin: 10px;
+		padding: 10px 5px;
+		width: 300px;
+		height: 40px;
+}
+
+.loginBut {
+		color: rgba(255, 255, 255, 0.8);
+		text-decoration: none;
+}
+
+#logBut {
+		border: 2px solid black;
+		border-radius: 8px;
+		padding: 3px 6px;
+		margin: 3px;
+		background-color: rgba(255, 45, 255, 0.2);
+		position: absolute;
+		bottom: 50px;
+		right: 50px;
+}
+
+#tRobot {
+		position: absolute;
+		bottom: 24%;
+		right: 133px;
+		font-family: garamond;
+		font-size: 20px;
+		font-weight: bold;
+		padding: 3px;
+		border: 2px solid black;
+		background-color: rgba(255, 45, 255, 0.2);
+		border-radius: 6px;
+}
+
+#tsparepart {
+		position: absolute;
+		right: 10px;
+		bottom: 24%;
+		font-family: garamond;
+		font-size: 20px;
+		font-weight: bold;
+		padding: 3px;
+		border: 2px solid black;
+		background-color: rgba(255, 45, 255, 0.2);
+		border-radius: 6px;
+}
+
+#tPesawat {
+		position: absolute;
+		bottom: 24%;
+		font-family: garamond;
+		font-size: 20px;
+		font-weight: bold;
+		padding: 3px;
+		border: 2px solid black;
+		background-color: rgba(255, 45, 255, 0.2);
+		border-radius: 6px;
+}
